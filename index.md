@@ -9,7 +9,7 @@ summary: These brief instructions will help you get started quickly with the the
 
 ## Build the Theme
 
-Follow these instructions to build the theme.
+This project does NOT work at all.
 
 ### 1. Download the theme
 
